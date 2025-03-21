@@ -1,1 +1,1 @@
-# React-practice
+# Meeting-App using React
